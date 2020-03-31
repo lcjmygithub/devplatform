@@ -1,0 +1,161 @@
+{
+    "code": 10000,
+    "content": [
+        {
+            "nickname": "海外江景房",
+            "robotid": 335
+        },
+        {
+            "nickname": "天威机器人",
+            "robotid": 355
+        },
+        {
+            "nickname": "房地产机器人-语音版",
+            "robotid": 372
+        },
+        {
+            "nickname": "贷款机器人",
+            "robotid": 391
+        },
+        {
+            "nickname": "联储机器人-语音版",
+            "robotid": 445
+        },
+        {
+            "nickname": "测试机器人",
+            "robotid": 484
+        },
+        {
+            "nickname": "机器人测试",
+            "robotid": 502
+        },
+        {
+            "nickname": "通道群呼",
+            "robotid": 514
+        },
+        {
+            "nickname": "通道测试2",
+            "robotid": 523
+        },
+        {
+            "nickname": "通道",
+            "robotid": 524
+        },
+        {
+            "nickname": "中国人寿",
+            "robotid": 538
+        },
+        {
+            "nickname": "变量测试",
+            "robotid": 545
+        },
+        {
+            "nickname": "在线试听",
+            "robotid": 611
+        },
+        {
+            "nickname": "问题库",
+            "robotid": 615
+        },
+        {
+            "nickname": "机器人",
+            "robotid": 617
+        },
+        {
+            "nickname": "lzj",
+            "robotid": 630
+        },
+        {
+            "nickname": "互动次数 v3",
+            "robotid": 658
+        },
+        {
+            "nickname": "海外江景房(4)",
+            "robotid": 676
+        },
+        {
+            "nickname": "lzj(2)",
+            "robotid": 699
+        },
+        {
+            "nickname": "智小七",
+            "robotid": 702
+        },
+        {
+            "nickname": "海外江景房(5)",
+            "robotid": 709
+        },
+        {
+            "nickname": "海外江景房(5)(1)",
+            "robotid": 721
+        },
+        {
+            "nickname": "海外江景房(5)(1)(1)",
+            "robotid": 732
+        },
+        {
+            "nickname": "海外江景房(5)(1)(1)(1)",
+            "robotid": 733
+        },
+        {
+            "nickname": "中国人寿(6)(1)(1)",
+            "robotid": 753
+        },
+        {
+            "nickname": "变量话术",
+            "robotid": 755
+        },
+        {
+            "nickname": "海外江景房(5)(1)(1)(1)(2)",
+            "robotid": 767
+        },
+        {
+            "nickname": "呼入话术测试",
+            "robotid": 778
+        },
+        {
+            "nickname": "新系统话术",
+            "robotid": 789
+        },
+        {
+            "nickname": "新系统话术(1)",
+            "robotid": 790
+        },
+        {
+            "nickname": "变量话术(4)",
+            "robotid": 794
+        },
+        {
+            "nickname": "0610通道群呼",
+            "robotid": 799
+        },
+        {
+            "nickname": "新建话术测试--文本",
+            "robotid": 800
+        },
+        {
+            "nickname": "新建话术测试--录音",
+            "robotid": 801
+        },
+        {
+            "nickname": "新服务器话术",
+            "robotid": 805
+        },
+        {
+            "nickname": "新服务器话术--录音",
+            "robotid": 806
+        },
+        {
+            "nickname": "王卡拉新 tts(2)",
+            "robotid": 811
+        },
+        {
+            "nickname": "大白教育 ",
+            "robotid": 812
+        },
+        {
+            "nickname": "平安普惠",
+            "robotid": 813
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "code": 10000,
+    "content": [
+        {
+            "showcontent": null,
+            "num": 0,
+            "createtime": 1582618209000,
+            "ifornotrobot": 1,
+            "storagetext": "喂，您好（停顿两秒）您好，我是大白教育的李老师，今年暑假呀，我们在南城开设了一个新校区，可以免费赠送20个小时一对一的课程，能够帮您孩子高效的提高成绩，赠送的课程价值高达3000元，您这边有兴趣进一步了解一下吗？",
+            "storagevoice": "robotvoice/20200108/20200108174329_679.wav",
+            "cid": "329423",
+            "sessionstorageid": 1789,
+            "type": 0
+        }
+    ]
+}

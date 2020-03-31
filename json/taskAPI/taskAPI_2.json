@@ -1,0 +1,42 @@
+{
+    "code": 10000,
+    "content": {
+        "totalCount": 2,
+        "list": [
+            {
+                "succ_num": 1,
+                "cmpid": 946,
+                "leavenum": 8,
+                "salenum": "202002250409372483",
+                "succ_rate": "13%",
+                "userid": 2483,
+                "number": 8,
+                "showname": "1",
+                "effectivetime": 4086604799000,
+                "id": 6721,
+                "time": 1582618178000,
+                "state": 3,
+                "call_num": 8
+            },
+            {
+                "succ_num": 0,
+                "cmpid": 946,
+                "leavenum": 1,
+                "salenum": "202002270304152246",
+                "succ_rate": "0%",
+                "userid": 2246,
+                "number": 1,
+                "showname": "11",
+                "effectivetime": 4086604799000,
+                "id": 6722,
+                "time": 1582787056000,
+                "state": 3,
+                "call_num": 0
+            }
+        ],
+        "pageNo": 1,
+        "pageSize": 10,
+        "totalPages": 1,
+        "extList": null
+    }
+}

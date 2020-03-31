@@ -1,0 +1,112 @@
+{
+    "code": 10000,
+    "content": {
+        "totalCount": 742,
+        "list": [
+            {
+                "yesnum": 0,
+                "total": 1,
+                "name": "liguos",
+                "harrynum": 0,
+                "taskname": "123",
+                "hascall": 0,
+                "callrate": 0.0,
+                "taskid": 4005
+            },
+            {
+                "yesnum": 0,
+                "total": 1,
+                "name": "liguos",
+                "harrynum": 0,
+                "taskname": "123",
+                "hascall": 0,
+                "callrate": 0.0,
+                "taskid": 4003
+            },
+            {
+                "yesnum": 0,
+                "total": 0,
+                "name": "liguos",
+                "harrynum": 0,
+                "taskname": "\t星河传说",
+                "hascall": 0,
+                "callrate": 0.0,
+                "taskid": 4001
+            },
+            {
+                "yesnum": 1,
+                "total": 9,
+                "name": "黎小红",
+                "harrynum": 0,
+                "taskname": "1",
+                "hascall": 8,
+                "callrate": 100.0,
+                "taskid": 3999
+            },
+            {
+                "yesnum": 0,
+                "total": 8,
+                "name": "黎小红",
+                "harrynum": 1,
+                "taskname": "1",
+                "hascall": 8,
+                "callrate": 100.0,
+                "taskid": 3998
+            },
+            {
+                "yesnum": 1,
+                "total": 1,
+                "name": "liguos",
+                "harrynum": 0,
+                "taskname": "33",
+                "hascall": 1,
+                "callrate": 100.0,
+                "taskid": 3997
+            },
+            {
+                "yesnum": 1,
+                "total": 1,
+                "name": "liguos",
+                "harrynum": 0,
+                "taskname": "21",
+                "hascall": 1,
+                "callrate": 100.0,
+                "taskid": 3996
+            },
+            {
+                "yesnum": 0,
+                "total": 1,
+                "name": "liguos",
+                "harrynum": 1,
+                "taskname": "2",
+                "hascall": 1,
+                "callrate": 100.0,
+                "taskid": 3995
+            },
+            {
+                "yesnum": 0,
+                "total": 1,
+                "name": "liguos",
+                "harrynum": 0,
+                "taskname": "1",
+                "hascall": 1,
+                "callrate": 0.0,
+                "taskid": 3994
+            },
+            {
+                "yesnum": 1,
+                "total": 1,
+                "name": "liguos",
+                "harrynum": 0,
+                "taskname": "1",
+                "hascall": 1,
+                "callrate": 100.0,
+                "taskid": 3993
+            }
+        ],
+        "pageNo": 1,
+        "pageSize": 10,
+        "totalPages": 75,
+        "extList": null
+    }
+}
